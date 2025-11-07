@@ -36,4 +36,4 @@
 [IMPORTANT]
 > By accessing, viewing, or interacting with this repository, its associated websites, social media presences, or any other digital asset or online content in any form or medium, you acknowledge that you have read, understood, and agree to be bound by the terms of this license, including all seven (7) sections of the [TERMS AND CONDITIONS](https://gist.github.com/Bradford1040/3d8390eef4d8bf22a6967e17553872d7#terms-and-conditions). Any action in contravention of these terms is unauthorized and constitutes a violation of the Author's rights.
 
-[^name_note]:Legal name is Bradford A. Adams
+[^name_note]:Author & Legal name is "Bradford A. Adams" aka Bradford1040 or 𝔅яа∂ƒøя∂¹⁰⁴⁰ 
