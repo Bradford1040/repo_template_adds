@@ -5,7 +5,12 @@ secrets.conf
 *.local.config
 *.iws
 Untitled.*
-.gemini
+
+# gemini-cli settings
+.gemini/
+
+# GitHub App credentials
+gha-creds-*.json
 
 # Package Managers
 /node_modules/
